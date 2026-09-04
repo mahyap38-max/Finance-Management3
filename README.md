@@ -73,12 +73,6 @@ This makes debugging and tracking application behavior easier.
 
 ---
 
-## Project Structure
 
-```text
-Finance-Management/
-│
-├── Finance-management.py
-├── management.db
-├── README.md
-└── ...
+## Author
+Mahya Hosseini Parsa
